@@ -103,6 +103,6 @@ to create a permanent alias - add it to the ~./bashrc or ~/.bash_profile
 
 ex - nano ~/.bashrc
 
-then, add it normally within the nano file 
+then, add it normally within the nano file and save - Ctrl+X, Y, enter to exit
 
 
